@@ -6,8 +6,8 @@
 * https://guides.github.com/features/mastering-markdown/
 
 <h2>Markdown в деталях</h2>
-
-|-|-|
+&nbsp; | &nbsp;
+-|-
 Filename extensions | .md, .markdown[1][2]
 Internet media type | text/markdown[2]
 Uniform Type Identifier (UTI) | net.daringfireball.markdown
