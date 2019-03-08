@@ -19,7 +19,6 @@ Type of format | Markup language
 Extended to | MultiMarkdown, Markdown Extra, CommonMark[6]
 Open format? | yes[7]
 Website | http://daringfireball.net/projects/markdown
-| | |
 
 <h2>Реальный пример</h2>
 
